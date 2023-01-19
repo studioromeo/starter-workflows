@@ -1,0 +1,7 @@
+{
+    "name": "Eleventy",
+    "description": "Package a Eleventy site.",
+    "iconName": "Eleventy",
+    "categories": ["Pages", "Eleventy"],
+    "labels": ["preview"]
+}
